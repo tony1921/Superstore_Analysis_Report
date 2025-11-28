@@ -126,4 +126,4 @@ GMV Top10 产品多数为：
 
 ### 克隆项目：
 ```bash
-git clone https://github.com/tony1921/Superstore_Analysis_Report.git
+git clone https://github.com/tony1921/Superstore_Analysis_Report/blob/main/%E7%94%B5%E5%95%86%E9%A1%B9%E7%9B%AE%E5%88%86%E6%9E%90.ipynb
